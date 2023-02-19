@@ -1,4 +1,4 @@
-# Quantitative Finace
+# Quantitative Finance
 
 This repo contains
 
