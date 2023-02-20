@@ -20,7 +20,7 @@ Exam 3: 99% ([Predict Stock Price in Supervised Learning](https://colab.research
 
 Final Project: 100% [(Deep Learning in Time Series](https://colab.research.google.com/drive/1bNg-Lj4LYac5sITTb8aTpi5QjXITrCxg?usp=sharing),DNN, RNN, LSTM, CNN and Time Series Analysis)
 
-This repo contains
+Jupyter Notebooks contain
 
 * Financial Data Source
 * Binomial Tree Modelling
