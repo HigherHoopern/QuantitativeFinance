@@ -1,5 +1,21 @@
 # Quantitative Finance
 
+[Learning Pathway](https://drive.google.com/file/d/1VVrbivr5M_SjE5jK4dgTPzl_di_YtSWt/view) 
+
+* Stochastic Calculus and Martingale Theory,
+* Quantitative Risk and Return
+* Equities and Currencies
+* Data Science and Machine Learning
+* Fixed Income and Credit
+
+Exam1: 84% (Portfolio Managements, Value at Risk and Basel Agreement)
+
+Exam 2: 85% ([Binary Options Pricing in C++,](https://github.com/HigherHoopern/BinaryOptionCPP) Monte Carlo Scheme, Black-Scholes model)
+
+Exam 3: 99% ([Predict Stock Price in Supervised Learning](https://colab.research.google.com/drive/1BuGooW9LBcOfHerVXe127EzCfE39QwgI?usp=sharing),Logistic, SVM, CART, XGB, MLP etc.)
+
+Final Project: 100% [(Deep Learning in Time Series](https://colab.research.google.com/drive/1bNg-Lj4LYac5sITTb8aTpi5QjXITrCxg?usp=sharing),DNN, RNN, LSTM, CNN and Time Series Analysis)
+
 This repo contains
 
 * Financial Data Source
