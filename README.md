@@ -8,6 +8,10 @@
 * Data Science and Machine Learning
 * Fixed Income and Credit
 
+Awarded the Certificate in Quantitative Finance in November 2021
+
+Overall mark:94%
+
 Exam1: 84% (Portfolio Managements, Value at Risk and Basel Agreement)
 
 Exam 2: 85% ([Binary Options Pricing in C++,](https://github.com/HigherHoopern/BinaryOptionCPP) Monte Carlo Scheme, Black-Scholes model)
