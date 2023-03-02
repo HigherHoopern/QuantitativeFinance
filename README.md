@@ -1,6 +1,6 @@
 # Quantitative Finance
 
-[Learning Pathway](https://drive.google.com/file/d/1VVrbivr5M_SjE5jK4dgTPzl_di_YtSWt/view) 
+[Learning Pathway](https://drive.google.com/file/d/1VVrbivr5M_SjE5jK4dgTPzl_di_YtSWt/view) | core modules
 
 * Stochastic Calculus and Martingale Theory,
 * Quantitative Risk and Return
@@ -8,9 +8,7 @@
 * Data Science and Machine Learning
 * Fixed Income and Credit
 
-Awarded the Certificate in Quantitative Finance in November 2021
-
-Overall mark:94%
+I was Awarded the Certificate in Quantitative Finance in November 2021 with overall mark 94%.
 
 Exam1: 84% (Portfolio Managements, Value at Risk and Basel Agreement)
 
@@ -20,7 +18,9 @@ Exam 3: 99% ([Predict Stock Price in Supervised Learning](https://colab.research
 
 Final Project: 100% [(Deep Learning in Time Series](https://colab.research.google.com/drive/1bNg-Lj4LYac5sITTb8aTpi5QjXITrCxg?usp=sharing),DNN, RNN, LSTM, CNN and Time Series Analysis)
 
-Jupyter Notebooks contain
+* `MachineLearningFinance` folder contains the application of supervised, unsupervised and reinforcement learning in finance.
+
+The rest Jupyter Notebooks contain
 
 * Financial Data Source
 * Binomial Tree Modelling
