@@ -1,4 +1,6 @@
-# Quantitative Finance
+# Certificate in Quantitative Finance
+
+This repo is my study notes regarding (CQF) Certificate in Quantitaitve Finance.
 
 [Learning Pathway](https://drive.google.com/file/d/1VVrbivr5M_SjE5jK4dgTPzl_di_YtSWt/view) | core modules
 
